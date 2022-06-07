@@ -1,0 +1,10 @@
+gif:
+  url: https://api.giphy.com/v1/gifs
+  apiKey: xPlvoK32NB9biMMl7fa3drua9I2ZiPMJ
+  rich: rich
+  broke: broke
+
+currency-exchange:
+  url: https://openexchangerates.org/api
+  currency: USD
+  apiId: a9d00c71279b48c9a638576bd021b3ef
