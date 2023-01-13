@@ -3,10 +3,10 @@ package com.currency.comparator.service.impl;
 import com.currency.comparator.client.GifClient;
 import com.currency.comparator.service.GifService;
 import lombok.RequiredArgsConstructor;
+import org.json.JSONObject;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
 import java.net.URI;
-import org.json.*;
 
 @Service
 @RequiredArgsConstructor

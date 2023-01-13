@@ -6,9 +6,9 @@ import org.springframework.cloud.openfeign.EnableFeignClients;
 
 @SpringBootApplication
 @EnableFeignClients
-public class TestTaskApplication {
+public class GifServiceApplication {
     public static void main(String[] args) {
-         SpringApplication.run(TestTaskApplication.class, args);
+         SpringApplication.run(GifServiceApplication.class, args);
     }
 
 }
